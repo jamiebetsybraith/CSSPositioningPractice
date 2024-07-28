@@ -1,0 +1,37 @@
+.child {
+    color: black;
+    box-sizing: border-box;
+    padding: 5px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.parent {
+    background-color: lightblue;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/* Light Green Block */
+.parent-block {
+    display:block;
+}
+.lightgreen {
+    background-color: lightgreen;
+}
+
+/* Light Pink Block */
+.parent-inline {
+    display:inline;
+}
+.lightpink {
+    background-color: lightpink;
+}
+
+/* Light Yellow Block */
+.parent-inlineBlock {
+    display:inline-block;
+}
+.lightyellow {
+    background-color: rgb(255, 248, 109);
+}
